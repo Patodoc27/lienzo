@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+build/
+dist/
+.venv/
+tests/pdfs/
+*.lienzo.json

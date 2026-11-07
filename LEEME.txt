@@ -1,0 +1,12 @@
+Lienzo — presentaciones con zoom a partir de PDF (funciona 100 % en tu computadora)
+
+1. Hacé doble clic en Lienzo.exe. Si Windows muestra "Windows protegió su PC",
+   tocá "Más información" y luego "Ejecutar de todas formas" (el programa no está firmado).
+2. Arrastrá uno o más PDF, tocá "Analizar y armar láminas".
+3. Completá expositor/a, evento, logo; elegí paleta y recorrido.
+4. Corregí las láminas a la derecha y tocá "Exportar HTML".
+   El archivo resultante se abre con cualquier navegador y no necesita internet
+   (salvo para descargar las tipografías; si no hay conexión usa las del sistema).
+
+Controles en la presentación: clic o flecha derecha avanza · clic derecho o flecha izquierda vuelve
+· O vista general · F pantalla completa · Inicio/Fin.
